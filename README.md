@@ -1,2 +1,2 @@
 # Beauty-Products-Survey-Data-Analysis
-Beauty products survey was created using Zoho survey and the data was collected and cleaned using excel. With the help of Power BI, the data was visualized in order to extract the valuable insights from it.
+A beauty products survey was created using Zoho Survey and the data was collected and cleaned using Excel. With the help of Power BI, the data was visualized in order to extract valuable insights from it.
